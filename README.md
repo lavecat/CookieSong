@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lavecat/LaveOs/blob/main/LaveOS%20%5B%20.png%20%5D%20by%20lirus_12345.png" alt="LaveOs logo" width="260" height="260" >
+<img src="https://github.com/lavecat/CookieSong/blob/main/CookieSongBot___Logo_CookieSong___by_lirus_12345__2.png" alt="CookieSong logo" width="260" height="260" >
 
 <div>&nbsp;</div>
 
