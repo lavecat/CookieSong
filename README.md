@@ -5,7 +5,7 @@
 <div>&nbsp;</div>
 
 
-[![LICENSE](https://img.shields.io/github/license/lavecat/LaveOs)](https://github.com/lavecat/LaveOs/blob/main/LICENSE "The legal LICENSE governing the usage of the admin system.")
+[![LICENSE](https://img.shields.io/github/license/lavecat/CookieSong)](https://github.com/lavecat/CookieSong/blob/main/LICENSE "The legal LICENSE governing the usage of the admin system.")
 
 </div>
 
