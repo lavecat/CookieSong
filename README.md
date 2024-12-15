@@ -9,14 +9,4 @@
 
 </div>
 
----
-Francais:
-LaveOs et un panel admin roblox et modération 
 
-<h2 id="install"> ✨ Fonctionnalitées </h2>
-
-
-
-
-
-<h2 id="install"> 🔧 Configuaration </h2>
