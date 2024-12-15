@@ -1,0 +1,35 @@
+Privacy Policy for CookieSong
+
+This Privacy Policy governs the collection, use, and sharing of personal information by Lirus, the owner of CookieSong, a Discord bot developed as part of the CookieSong project. By using CookieSong, you agree to the terms of this Privacy Policy.
+
+Information We Collect
+
+We collect information you provide through your use of the bot, such as your Discord user ID, username, server and channel information, and message content. We may also collect usage data, such as the frequency and duration of your interactions with the bot.
+
+How We Use Your Information
+
+We use your information to operate and improve CookieSong, including providing support and responding to your requests. We may also use your information to develop new features or services, conduct research and analytics, and comply with legal obligations.
+
+Sharing Your Information
+
+We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal processes or requests from law enforcement or regulatory authorities.
+
+Data Retention
+
+We retain your information as long as necessary to provide CookieSong’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
+
+Data Security
+
+We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the absolute security of your information.
+
+Changes to this Policy
+
+We may update this Privacy Policy from time to time, and any updates will be posted on our website. Your continued use of CookieSong after changes to this policy indicates your acceptance of the revised policy.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at support@cookiesong.fr
+
+Effective Date
+
+This Privacy Policy is effective as of 15/12/2024.
