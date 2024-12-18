@@ -4,10 +4,9 @@
 
 <div>&nbsp;</div>
 
+## CookieSong
 
 [![LICENSE](https://img.shields.io/github/license/lavecat/CookieSong)](https://github.com/lavecat/CookieSong/blob/main/LICENSE "The legal LICENSE governing the usage of the admin system.")
-
-## CookieSong
 
 </div>
 
